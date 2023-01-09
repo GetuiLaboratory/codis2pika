@@ -1,0 +1,17 @@
+module codis2pika
+
+go 1.19
+
+require (
+	github.com/alibaba/RedisShake v0.0.0-20221010090830-d1376f6b7c08
+	github.com/hdt3213/rdb v1.0.5
+	github.com/pelletier/go-toml/v2 v2.0.5
+	github.com/rs/zerolog v1.28.0
+	github.com/yuin/gopher-lua v0.0.0-20220504180219-658193537a64
+)
+
+require (
+	github.com/mattn/go-colorable v0.1.12 // indirect
+	github.com/mattn/go-isatty v0.0.14 // indirect
+	golang.org/x/sys v0.0.0-20211216021012-1d35b9e2eb4e // indirect
+)
