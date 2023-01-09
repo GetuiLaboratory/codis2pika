@@ -1,6 +1,6 @@
 # codis2pika
 
-[中文文档](https://github.com/GetuiLaboratory/codis2pika/blob/v1.0.0.0/README_zh.md)
+[中文文档](https://github.com/GetuiLaboratory/codis2pika/blob/main/README_zh.md)
 
 Codis2pika is a tool used to migrate codis data to pika. The main purpose is to support the migration of Codis sharding mode to Pika classic mode.
 
