@@ -1,7 +1,5 @@
 # codis2pika
 
-[![CI](https://github.com/GetuiLaboratory/codis2pika/actions/workflows/ci.yml/badge.svg?branch=v3)](https://github.com/GetuiLaboratory/codis2pika/actions/workflows/ci.yml)
-
 codis2pika 是一个用来做 codis 数据迁移到 pika 的工具。主要目的是为了支持codis 分片模式迁移到 pika classic模式。
 
 ## 感谢
